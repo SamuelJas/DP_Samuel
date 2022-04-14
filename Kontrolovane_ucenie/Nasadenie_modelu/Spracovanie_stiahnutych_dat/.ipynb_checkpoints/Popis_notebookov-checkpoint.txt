@@ -1,0 +1,3 @@
+Notebooky v tejto zložke robia tú istú prácu ako python notebook detection.ipynb
+Rozbaľujú a spracúvajú stiahnuté dáta pre ďalšie potreby.
+Pre časovú náročnosť spracovania stiahnutých dát sme každý mesiac spracovávali paralelne pomocou týchto notebookov.
