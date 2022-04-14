@@ -22,7 +22,7 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [k-MeansAnalysis](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/cluster_analysis.ipynb) analyzuje vytvorené zhluky za pomoci informácií obsiahnutých vo výstupnej tabuľke.
 
-- Jupyter notebook [SOM-Optimalization](data/lightning/Samuel/DP_Samuel/Nekontrolovane_ucenie/SOM/SOM_3_3/SOM_3_3.ipynb) obsahuje metódy trénovania, vizualizácie a optimalizácie parametrov SOM mapy.
+- Jupyter notebook [SOM-Optimalization](/Nekontrolovane_ucenie/SOM/SOM_3_3/SOM_3_3.ipynb) obsahuje metódy trénovania, vizualizácie a optimalizácie parametrov SOM mapy.
 
 - Jupyter notebook [SOM](/Nekontrolovane_ucenie/SOM/SOM_3_3/SOM_3_3_clustering_sig_opti.ipynb) obsahuje metódy trénovania a vizualizácie SOM mapy s najlepšími parametrami učenia. Informáciu o zhlukoch skript spája s výstupnou tabuľkou.
 
