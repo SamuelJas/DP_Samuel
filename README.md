@@ -30,6 +30,12 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 ### Vstupné, výstupné a pracovné súbory
 
+#### Predspracovanie dát
+
+#### Kontrolované učenie
+
+#### Nekontrolované učenie
+
 ---
 
 ### Ako citovať:
