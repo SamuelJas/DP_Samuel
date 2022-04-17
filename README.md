@@ -31,6 +31,9 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 ### Vstupné, výstupné a pracovné súbory
 
 #### Predspracovanie dát
+Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
+
+- jjmarkers-classifications2.csv -- výstupný súbor anotačného projektu
 
 #### Kontrolované učenie
 
