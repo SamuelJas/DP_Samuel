@@ -39,6 +39,20 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 
 #### Kontrolované učenie
 
+##### [Augmentačný model](/Kontrolovane_ucenie/Augmentacny_model)
+- X_test.pkl - testovacia dátová množina
+- y_test.pkl - label testovacej dátovej množiny
+- X_train_norm.pkl - trénovacia dátová množina
+- y_train_norm.pkl - label trénovacej dátovej množiny
+- images.pkl - súbor obsahujúci názvy udalostí uložených v zložke
+- model_datagen_RBG.h5 - natrénovaný model s najlepošími parametrami
+- predictions_datagen.csv - výstup predikcie modelu na testovacej zložke dát
+- ch1_20150902_231933_448_s61_2831.jpg - náhľad extrahovanej udalosti
+
+##### [Nasadenie modelu](/Kontrolovane_ucenie/Nasadenie_modelu/csv_spracovane_roky/2014)
+- output_S_2014_11.csv, output_T_2014_11.csv, vyst_tab_2014_11.csv - čiastkové výstupné tabuľky
+- result_2014_11_cleared.csv - konečná výstupná tabuľka
+
 #### Nekontrolované učenie
 
 ---
