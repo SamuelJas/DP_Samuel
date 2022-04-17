@@ -18,6 +18,8 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [Visualization](/Kontrolovane_ucenie/Nasadenie_modelu/Frekvencne_grafy.ipynb) obsahuje metódy vizualizácie dát z výstupnej tabuľky.
 
+- Jupyter notebook [Cluster preprocess](/Nekontrolovane_ucenie/spracovanie_cluster_dat.ipynb) obsahuje metódy spracovania extrahovaných udalostí do podoby vhodnej pre metódy zhlukovania.
+
 - Jupyter notebook [k-Means](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/encoder_kmeans_final.ipynb) obsahuje metódy vytvorenia enkóderu a k-Means zhlukovania. Informáciu o zhlukoch skript pridáva do výstupnej tabuľky a vytvorené zhluky vizualizuje.
 
 - Jupyter notebook [k-MeansAnalysis](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/cluster_analysis.ipynb) analyzuje vytvorené zhluky za pomoci informácií obsiahnutých vo výstupnej tabuľke.
