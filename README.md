@@ -18,7 +18,7 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [Visualization](/Kontrolovane_ucenie/Nasadenie_modelu/Frekvencne_grafy.ipynb) obsahuje metódy vizualizácie dát z výstupnej tabuľky.
 
-- Jupyter notebook [Cluster preprocess](/Nekontrolovane_ucenie/spracovanie_cluster_dat.ipynb) obsahuje metódy spracovania extrahovaných udalostí do podoby vhodnej pre metódy zhlukovania.
+- Jupyter notebook [ClusterPreprocess](/Nekontrolovane_ucenie/spracovanie_cluster_dat.ipynb) obsahuje metódy spracovania extrahovaných udalostí do podoby vhodnej pre metódy zhlukovania.
 
 - Jupyter notebook [k-Means](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/encoder_kmeans_final.ipynb) obsahuje metódy vytvorenia enkóderu a k-Means zhlukovania. Informáciu o zhlukoch skript pridáva do výstupnej tabuľky a vytvorené zhluky vizualizuje.
 
@@ -57,6 +57,24 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 - [vizualizácia](/Kontrolovane_ucenie/Nasadenie_modelu/Grafy) - png výstupy vizualizácie udalostí
 
 #### Nekontrolované učenie
+
+##### k-Means s enkóderom
+
+- [data](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/data)
+- X_train.pkl - trénovacia zložka dát (trénovanie enkódera)
+- y_train.pkl - label trénovacej zložky (trénovanie enkódera)
+- X_valid.pkl - validačná zložka dát (trénovanie enkódera)
+- y_valid.pkl - label v alidačnej zložky (trénovanie enkódera)
+- data_2014_11.pkl - spracované dáta pre zhlukovanie (dáta obsahujú len vzorku spracovaných záznamom z kapacitných dôvodov)
+- label_2014_11.pkl - label spracovaných dát
+- img_name.pkl - názov spracovaných udalostí pre potreby spojenia v výstupnou tabuľkou
+
+- [csv](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/csv)
+- result_2014_11_cleared.csv - výstupná tabuľka vytvorená procesom nasadenia modelov
+- K2_2014_11.csv až K9_2014_11.csv - výstupné tabuľky metódy zhlukovania k-Means, kde K je počet zhlukov
+
+- [img](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/img)
+- kmeans_2clusters.png až kmeans_9clusters.png - vizualizované zhluky k-Means zhlukovania, kde číslo vyjadruje počet zhlukov
 
 ---
 
