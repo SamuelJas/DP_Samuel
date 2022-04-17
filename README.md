@@ -33,7 +33,9 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 #### Predspracovanie dát
 Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 
-- jjmarkers-classifications2.csv -- výstupný súbor anotačného projektu
+- jjmarkers-classifications2.csv - výstupný súbor anotačného projektu
+- annot_output.csv, anot_data_all.csv, anot_data_tweek.csv - čiastkové súbory predspracovania
+- tweek1.csv, tweek2.csv, tweek3.csv, tweekMoreThan4.csv - konečné csv súbory, obsahujúce informácie pre extrakciu udalostí
 
 #### Kontrolované učenie
 
