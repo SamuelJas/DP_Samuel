@@ -28,9 +28,7 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [SOM-analysis](/Nekontrolovane_ucenie/SOM/SOM_3_3/som_3_3_cluster_analysis_sig_opti.ipynb) analyzuje vytvorené zhluky za pomoci informácií obsiahnutých vo výstupnej tabuľke.
 
----
-
-###Vstupné, výstupné a pracovné súbory
+### Vstupné, výstupné a pracovné súbory
 
 ---
 
