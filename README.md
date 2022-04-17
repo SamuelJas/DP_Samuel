@@ -12,7 +12,7 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [AugNet](/Kontrolovane_ucenie/Augmentacny_model/Datagen_model.ipynb) obsahuje metódy vytvorenia a trénovania modelu klasifikácie disperzií za použitia augmentovanej dátovej množiny.
 
-- Jupyter notebook [Detection](/Kontrolovane_ucenie/Nasadenie_modelu/detection.ipynb) obsahuje metódy stiahnutia, rozbalenia a spracovania dát. Ďalej obsahuje YOLO model pre detekciu udalostí. Pri veľkom množstve dát je možné spustiť rozbalenie a spracovanie dát paralelne pomocou notebookov v zložke [Spracovanie](/Kontrolovane_ucenie/Nasadenie_modelu/Spracovanie_stiahnutych_dat)
+- Jupyter notebook [Detection](/Kontrolovane_ucenie/Nasadenie_modelu/detection.ipynb) obsahuje metódy stiahnutia, rozbalenia a spracovania dát. Ďalej obsahuje YOLO model pre detekciu udalostí. Pri veľkom množstve dát je možné spustiť rozbalenie a spracovanie dát paralelne pomocou notebookov v zložke [Spracovanie](/Kontrolovane_ucenie/Nasadenie_modelu/Spracovanie_stiahnutych_dat).
 
 - Jupyter notebook [Prediction](/Kontrolovane_ucenie/Nasadenie_modelu/prediction.ipynb) obsahuje metódy extrakcie stiahnutých dát a vytvárania výstupných tabuliek. Udalosti typu tweek skript klasifikuje podľa počtu disperzií naučeným modelom.
 
@@ -28,6 +28,9 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [SOM-analysis](/Nekontrolovane_ucenie/SOM/SOM_3_3/som_3_3_cluster_analysis_sig_opti.ipynb) analyzuje vytvorené zhluky za pomoci informácií obsiahnutých vo výstupnej tabuľke.
 
+---
+
+###Vstupné, výstupné a pracovné súbory
 
 ---
 
