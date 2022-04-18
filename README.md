@@ -79,15 +79,18 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 ##### SOM
 
 [data](/Nekontrolovane_ucenie/SOM/SOM_3_3/data)
+
 - data_2014_11.pkl - spracované dáta pre zhlukovanie (dáta obsahujú len vzorku spracovaných záznamom z kapacitných dôvodov)
 - label_2014_11.pkl - label spracovaných dát
 - img_name.pkl - názov spracovaných udalostí pre potreby spojenia v výstupnou tabuľkou
 
 [csv](/Nekontrolovane_ucenie/SOM/SOM_3_3/csv)
+
 - result_2014_11_cleared.csv - výstupná tabuľka vytvorená procesom nasadenia modelov
 - som3_3_sig_opti_2014_11.csv - výstupná tabuľka metódy SOM s informáciou o príslušnosti udalostí do zhlukov
 
 [img](/Nekontrolovane_ucenie/SOM/SOM_3_3/img)
+
 - som_3_3_cluster_sig_opti.png - vizualizovaná SOM mapa
 
 ---
