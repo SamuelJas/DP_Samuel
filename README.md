@@ -14,7 +14,7 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [Detection](/Kontrolovane_ucenie/Nasadenie_modelu/detection.ipynb) obsahuje metódy stiahnutia, rozbalenia a spracovania dát. Ďalej obsahuje YOLO model pre detekciu udalostí. Pri veľkom množstve dát je možné spustiť rozbalenie a spracovanie dát paralelne pomocou notebookov v zložke [Spracovanie](/Kontrolovane_ucenie/Nasadenie_modelu/Spracovanie_stiahnutych_dat).
 
-- Jupyter notebook [Prediction](/Kontrolovane_ucenie/Nasadenie_modelu/prediction.ipynb) obsahuje metódy extrakcie stiahnutých dát a vytvárania výstupných tabuliek. Udalosti typu tweek skript klasifikuje podľa počtu disperzií naučeným modelom.
+- Jupyter notebook [Prediction](/Kontrolovane_ucenie/Nasadenie_modelu/prediction.ipynb) obsahuje metódy extrakcie stiahnutých dát a vytvárania výstupných tabuliek. Udalosti typu tweek skript klasifikuje podľa počtu disperzií modelom klasifikácie disperzií.
 
 - Jupyter notebook [Visualization](/Kontrolovane_ucenie/Nasadenie_modelu/Frekvencne_grafy.ipynb) obsahuje metódy vizualizácie dát z výstupnej tabuľky.
 
