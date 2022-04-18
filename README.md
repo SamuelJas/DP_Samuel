@@ -8,9 +8,9 @@ Bleskové výboje generujú elektromagnetické pulzy, ktoré môžu cestovať at
 
 - Jupyter notebook [Preprocess](/Predspracovanie_dat/tweek_crop.ipynb) obsahuje metódy spracovania výstupu anotačného projektu a extrakcie udalostí zo spektrogramov. Extrahované udalosti ukladá do zložiek podľa počtu disperzií.
 
-- Jupyter notebook [NormalNet](/Kontrolovane_ucenie/Normal_model/Normal_Net.ipynb) obsahuje metódy vytvorenia a trénovania modelu klasifikácie disperzií s predspracovaním dát normalizáciou.
+- Jupyter notebook [NormalNet](/Kontrolovane_ucenie/Normal_model/Normal_Net.ipynb) obsahuje metódy vytvorenia a trénovania modelu klasifikácie disperzií s predspracovaním dát normalizáciou. V práci je tento model označovaný ako Model 1
 
-- Jupyter notebook [AugNet](/Kontrolovane_ucenie/Augmentacny_model/Datagen_model.ipynb) obsahuje metódy vytvorenia a trénovania modelu klasifikácie disperzií za použitia augmentovanej dátovej množiny.
+- Jupyter notebook [AugNet](/Kontrolovane_ucenie/Augmentacny_model/Datagen_model.ipynb) obsahuje metódy vytvorenia a trénovania modelu klasifikácie disperzií za použitia augmentovanej dátovej množiny. V práci je tento model označovaný ako Model 3
 
 - Jupyter notebook [Detection](/Kontrolovane_ucenie/Nasadenie_modelu/detection.ipynb) obsahuje metódy stiahnutia, rozbalenia a spracovania dát. Ďalej obsahuje YOLO model pre detekciu udalostí. Pri veľkom množstve dát je možné spustiť rozbalenie a spracovanie dát paralelne pomocou notebookov v zložke [Spracovanie](/Kontrolovane_ucenie/Nasadenie_modelu/Spracovanie_stiahnutych_dat).
 
