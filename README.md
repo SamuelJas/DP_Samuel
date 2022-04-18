@@ -60,7 +60,8 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 
 ##### k-Means s enkóderom
 
-- [data](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/data)
+[data](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/data)
+
 - X_train.pkl - trénovacia zložka dát (trénovanie enkódera)
 - y_train.pkl - label trénovacej zložky (trénovanie enkódera)
 - X_valid.pkl - validačná zložka dát (trénovanie enkódera)
@@ -69,11 +70,13 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 - label_2014_11.pkl - label spracovaných dát
 - img_name.pkl - názov spracovaných udalostí pre potreby spojenia v výstupnou tabuľkou
 
-- [csv](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/csv)
+[csv](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/csv)
+
 - result_2014_11_cleared.csv - výstupná tabuľka vytvorená procesom nasadenia modelov
 - K2_2014_11.csv až K9_2014_11.csv - výstupné tabuľky metódy zhlukovania k-Means, kde K je počet zhlukov
 
-- [img](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/img)
+[img](/Nekontrolovane_ucenie/k-Means/Silny_enkoder/img)
+
 - kmeans_2clusters.png až kmeans_9clusters.png - vizualizované zhluky k-Means zhlukovania, kde číslo vyjadruje počet zhlukov
 
 ##### SOM
