@@ -54,7 +54,7 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 ##### [Nasadenie modelu](/Kontrolovane_ucenie/Nasadenie_modelu/csv_spracovane_roky/2014)
 - output_S_2014_11.csv, output_T_2014_11.csv, vyst_tab_2014_11.csv - čiastkové výstupné tabuľky
 - result_2014_11_cleared.csv - konečná výstupná tabuľka
-- [result_2016.csv](/Kontrolovane_ucenie/Nasadenie_modelu/csv_spracovane_roky/2016) - vzorka výstupnej tabuľky pre rok 2016
+- [vzorka_result_2016.csv](/Kontrolovane_ucenie/Nasadenie_modelu/csv_spracovane_roky/2016) - vzorka výstupnej tabuľky pre rok 2016
 - [vizualizácia](/Kontrolovane_ucenie/Nasadenie_modelu/Grafy) - png výstupy vizualizácie udalostí
 
 #### Nekontrolované učenie
