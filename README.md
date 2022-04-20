@@ -67,7 +67,7 @@ Súbory sú uložené v zložke [Predspracovanie](/Predspracovanie_dat/csv)
 - y_train.pkl - label trénovacej zložky (trénovanie enkódera)
 - X_valid.pkl - validačná zložka dát (trénovanie enkódera)
 - y_valid.pkl - label v alidačnej zložky (trénovanie enkódera)
-- data_2014_11.pkl - spracované dáta pre zhlukovanie (dáta obsahujú len vzorku spracovaných záznamom z kapacitných dôvodov)
+- data_2014_11.pkl - spracované dáta pre zhlukovanie (dáta obsahujú len vzorku spracovaných záznamov z kapacitných dôvodov)
 - label_2014_11.pkl - label spracovaných dát
 - img_name.pkl - názov spracovaných udalostí pre potreby spojenia v výstupnou tabuľkou
 
